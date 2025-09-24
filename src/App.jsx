@@ -12,7 +12,7 @@ function App() {
         justifyContent: "center",
       }}
     >
-      <Logo3D src="/pukaar3d.png" size={420} />
+      <Logo3D src="/Adobe.png" size={420} />
     </div>
   );
 }
